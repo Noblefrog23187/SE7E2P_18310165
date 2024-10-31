@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Mexico",
+        "tiene_acceso_mar": true,
+        "es_de_america": true,
+        "es_union_europea": false,
+        "es_isla": false,
+        "es_grande": true
+    },
+    {
+        "nombre": "Suiza",
+        "tiene_acceso_mar": false,
+        "es_de_america": false,
+        "es_union_europea": false,
+        "es_isla": false,
+        "es_grande": false
+    },
+    {
+        "nombre": "Japón",
+        "tiene_acceso_mar": true,
+        "es_de_america": false,
+        "es_union_europea": false,
+        "es_isla": true,
+        "es_grande": true
+    },
+    {
+        "nombre": "Francia",
+        "tiene_acceso_mar": true,
+        "es_de_america": false,
+        "es_union_europea": true,
+        "es_isla": false,
+        "es_grande": true
+    },
+    {
+        "nombre": "Cuba",
+        "tiene_acceso_mar": true,
+        "es_de_america": true,
+        "es_union_europea": false,
+        "es_isla": true,
+        "es_grande": false
+    },
+    {
+        "nombre": "Alemania",
+        "tiene_acceso_mar": true,
+        "es_de_america": false,
+        "es_union_europea": true,
+        "es_isla": false,
+        "es_grande": true
+    },
+    {
+        "nombre": "Bolivia",
+        "tiene_acceso_mar": false,
+        "es_de_america": true,
+        "es_union_europea": false,
+        "es_isla": false,
+        "es_grande": false
+    }
+]
